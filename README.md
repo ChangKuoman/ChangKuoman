@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ChangKuoman
-- 👀 I’m interested in 3d printing, social justice and programming.
-- 🌱 I’m currently studying bioengineering in UTEC, Lima, Perú.
+- 👋 Hi, I’m [@ChangKuoman](https://github.com/ChangKuoman)
+- 👀 I’m interested in 3D printing, social justice and education.
+- 💻 I’m currently studying Computer Science in UTEC, Lima, Perú.
 - 📫 How to reach me: samanta.chang@utec.edu.pe
 
 <!---
