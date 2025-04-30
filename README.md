@@ -24,7 +24,7 @@
   <a href="https://www.linkedin.com/in/chang-kuoman/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chang-kuoman" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/chang.kuoman" target="blank">
+  <a href="https://instagram.com/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chang.kuoman" height="30" width="40" />
   </a>
 </p>
@@ -61,5 +61,8 @@
   </a> 
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="flask" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/> 
   </a> 
 </p>
