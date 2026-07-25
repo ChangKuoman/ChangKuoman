@@ -5,12 +5,12 @@
 
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ChangKuoman&row=2&column=4" alt="ChangKuoman" />
+    <img src="https://github-profile-trophy-sigma-one.vercel.app/?username=ChangKuoman&row=2&column=4" alt="ChangKuoman" />
   </a> 
 </p>
 
 <p align="center" >
-  <p align="center">💻 I’m currently studying <b>Computer Science @ Skyline College</b></p>
+  <p align="center">💻 I’m currently studying <b>Data Science @ UC Berkeley</b></p>
   <p align="center">👀 I’m interested in 3D printing, social justice and education.</p>
   <p align="center">📫 How to reach me: <b>chang.kuoman@gmail.com</b></p>
 </p>
